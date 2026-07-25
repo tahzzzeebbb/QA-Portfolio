@@ -1,0 +1,72 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Development),Custom field (Issue color),Custom field (Rank),Custom field (Start date),Custom field (Team),Custom field (Vulnerability),Parent,Parent key,Parent summary,Status Category,Status Category Changed
+Login Feature Testing,OLT-1,10057,Epic,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:21 AM,25/Jul/26 4:30 AM,25/Jul/26 4:33 AM,,08/Aug/26 12:00 AM,0,"h3. Objective
+
+Test all login-related functionality.
+
+h3. Context
+
+The issue is focused on login module testing.
+
+h3. Scope
+
+* All login-related functionality
+
+h3. Success criteria
+
+* Login-related functionality is tested
+
+h3. Risks and dependencies
+
+* N/A
+
+h3. Other information
+
+Testing all login-related functionality.",,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003b:,,,,,,,To Do,25/Jul/26 1:21 AM
+Bug Management,OLT-3,10059,Epic,In Progress,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:25 AM,25/Jul/26 4:30 AM,25/Jul/26 4:39 AM,,07/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:,,,,,,,In Progress,25/Jul/26 4:30 AM
+Prepare Final Test Report,OLT-19,10075,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:36 AM,25/Jul/26 4:30 AM,,,05/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:00i,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:36 AM
+Retest Fixed Bugs,OLT-18,10074,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:36 AM,25/Jul/26 4:30 AM,,,31/Jul/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:01,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:36 AM
+Prepare Bug Report,OLT-17,10073,Task,In Progress,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,High,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:35 AM,25/Jul/26 4:30 AM,,,08/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:02,,,,10057,OLT-1,Login Feature Testing,In Progress,25/Jul/26 4:19 AM
+Capture Screenshots,OLT-16,10072,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:35 AM,25/Jul/26 4:30 AM,,,05/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:04,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:35 AM
+Execute Negative Login Tests,OLT-15,10071,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:35 AM,25/Jul/26 4:31 AM,,,06/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:09,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:35 AM
+Execute Positive Login Tests,OLT-14,10070,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:35 AM,25/Jul/26 4:31 AM,25/Jul/26 4:33 AM,,03/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:0i,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:35 AM
+Write Negative Test Cases,OLT-13,10069,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:35 AM,25/Jul/26 4:31 AM,,,05/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:1,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:35 AM
+Write Positive Test Cases,OLT-12,10068,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:35 AM,25/Jul/26 4:31 AM,,,06/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:2,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:35 AM
+Prepare Test Scenarios,OLT-11,10067,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:34 AM,25/Jul/26 4:31 AM,,,05/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:4,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:34 AM
+Study Login Page,OLT-10,10066,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,High,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:34 AM,25/Jul/26 4:30 AM,,,30/Jul/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:9,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:34 AM
+Prepare Test Summary,OLT-8,10064,Story,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:29 AM,25/Jul/26 4:30 AM,,,04/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003j:i,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:29 AM
+Validate Error Messages,OLT-7,10063,Story,Done,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,Done,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:29 AM,25/Jul/26 4:30 AM,25/Jul/26 4:20 AM,25/Jul/26 4:30 AM,17/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003k:,,,,10057,OLT-1,Login Feature Testing,Done,25/Jul/26 4:30 AM
+Execute Login Testing,OLT-6,10062,Story,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:29 AM,25/Jul/26 4:31 AM,,,05/Aug/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003l:,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:29 AM
+Write Login Test Cases,OLT-5,10061,Story,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:29 AM,25/Jul/26 4:35 AM,25/Jul/26 4:34 AM,,29/Jul/26 12:00 AM,0,"h3. User story
+
+As a user, when I use the login module, I want test cases to be written so that the login functionality can be validated.
+
+h3. Context
+
+Test cases need to be written for the login module.
+
+h3. Acceptance criteria
+
+* Write test cases for the login module.
+
+h3. Other information
+
+* Issue name: Write Login Test Cases
+* Original description: ""Werite test cases for loin module""",,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003n:,,,,10057,OLT-1,Login Feature Testing,To Do,25/Jul/26 1:29 AM
+Write Login Test Scenarios,OLT-4,10060,Story,In Progress,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:29 AM,25/Jul/26 4:31 AM,,,26/Jul/26 12:00 AM,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003r:,,,,10057,OLT-1,Login Feature Testing,In Progress,25/Jul/26 4:20 AM
+Username field accepts leading spaces,OLT-22,10078,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:37 AM,25/Jul/26 4:41 AM,25/Jul/26 4:40 AM,,,0,"h3. Summary
+
+The username field accepts leading spaces.
+
+h3. Context
+
+Leading spaces
+
+h3. Acceptance criteria
+
+N/A
+
+h3. Other information
+
+N/A",,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003t:,,,,10059,OLT-3,Bug Management,To Do,25/Jul/26 1:37 AM
+Login button misaligned on mobile,OLT-21,10077,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:37 AM,25/Jul/26 4:19 AM,,,,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003v:,,,,10059,OLT-3,Bug Management,To Do,25/Jul/26 1:37 AM
+Invalid password error message not displayed,OLT-20,10076,Task,To Do,OLT,OrangeHRM Login Testing,software,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,Medium,,tehzeebmasood2,712020:83a73ca8-d397-4537-a076-2ebe9fe36d71,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,25/Jul/26 1:37 AM,25/Jul/26 4:17 AM,,,,0,,,Tahzzzeebb b,712020:b0cd5ef7-6aaf-44c3-b2f5-d7e58feb4061,,,,,,,,,,,0|i0003z:,,,,10059,OLT-3,Bug Management,To Do,25/Jul/26 1:37 AM
