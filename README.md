@@ -81,6 +81,48 @@ https://the-internet.herokuapp.com/login
 
 ---
 
+## Day 03 — Jira Basics and Login Testing Workflow
+
+### Project Created
+OrangeHRM Login Testing (Jira Kanban Project)
+
+### Topics Covered
+
+- Jira Basics
+- Jira Project Management
+- Epics
+- Stories
+- Tasks
+- Bug Workflow
+- Priorities
+- Labels
+- Status Workflow
+- QA Project Planning
+
+### Practical Work
+
+- Created first Jira QA project
+- Configured Kanban project for testing workflow
+- Created Epic → Story → Task hierarchy
+- Practiced issue creation and management
+- Learned Jira issue tracking process
+- Managed login testing project workflow
+- Created tasks for OrangeHRM Login Testing
+
+### Skills Learned
+
+- Jira Navigation
+- Issue Tracking
+- Agile Workflow
+- Kanban Board Management
+- QA Project Management
+- Defect Lifecycle Understanding
+- Test Planning in Jira
+
+**Status:** Completed
+
+---
+
 ## Learning Roadmap
 
 - Manual Testing
@@ -102,6 +144,7 @@ QA Portfolio
 │
 ├── Day 1
 ├── Day 2
+├── Day 3
 └── README.md
 ```
 
