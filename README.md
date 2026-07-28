@@ -156,7 +156,8 @@ GitHub:
 https://github.com/tahzzzeebbb
 
 LinkedIn:
-(Coming Soon)
+www.linkedin.com/in/tehzeeb-masood-3a4409380
+
 
 ---
 
